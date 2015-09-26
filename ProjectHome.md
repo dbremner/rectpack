@@ -1,0 +1,3 @@
+This code implements Huang and Korf's (2008, 2009, 2010, 2011) optimal rectangle packer. It also implements Korf's (2003, 2004) and Korf et al.'s (2009) optimal rectangle packer.
+
+The software handles rectangles rotated to be aligned to the x and y axes, handles both oriented and unoriented rectangles, rectangles of high-precision dimensions, and finds the bounding box of smallest area that can contain the input rectangles without overlap.
